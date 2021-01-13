@@ -2,8 +2,9 @@
 
 ## Description :
 Due to this pandemic situation, to reduce the risk of Physical exposure to the fingerprint sensor for attendance,
-Face recognition base attendance system was developed
+Face recognition based attendance system developed.
 The project using open-cv based facerecognition library as a core algorithm and django for backend services.
+For Convolutional Neural Network more than 1000 number of training images needed. so it is not used for this project.
 The algorithm works with a limited amount of photos of a person as a training image.
 
 ## Features
